@@ -2,8 +2,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# :raising_hand:  Sobre Mi:
-### Hola! Soy programador full stack y estudiante avanzado de la Tecnicatura Universitaria En Programacion en la Universidad Tecnologica Nacional. Siempre estoy en busca de nuevos desafios y en constante aprendizaje para lograr un resultado positivo en los desafios propuestos.
 
 
 
